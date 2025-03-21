@@ -26,7 +26,7 @@ A simple **E-Commerce Application** built using **Java, MySQL, and JDBC Connecto
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/ecommerce-java.git
+git clone (https://github.com/kabi2023/electronics.e.cart.git)
 cd ecommerce-java
 ```
 
